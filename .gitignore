@@ -1,0 +1,13 @@
+# 编辑器
+.idea
+# python
+venv
+__pycache__
+
+# 项目
+*.png
+*.jpg
+!example.*
+images/**
+output/**
+config.ini
